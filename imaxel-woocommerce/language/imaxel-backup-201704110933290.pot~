@@ -1,0 +1,165 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-08 15:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: woocommerce-imaxel.php:185
+msgid "Imaxel reprocess order"
+msgstr ""
+
+#: woocommerce-imaxel.php:264
+msgid "Imaxel projects"
+msgstr ""
+
+#: woocommerce-imaxel.php:296
+msgid "Project ID"
+msgstr ""
+
+#: woocommerce-imaxel.php:301
+msgid "Select customer"
+msgstr ""
+
+#: woocommerce-imaxel.php:312
+msgid "Filter"
+msgstr ""
+
+#: woocommerce-imaxel.php:321 woocommerce-imaxel.php:1237
+msgid "Project"
+msgstr ""
+
+#: woocommerce-imaxel.php:322
+msgid "Woo Order"
+msgstr ""
+
+#: woocommerce-imaxel.php:323
+msgid "User name"
+msgstr ""
+
+#: woocommerce-imaxel.php:324
+msgid "Products"
+msgstr ""
+
+#: woocommerce-imaxel.php:325
+msgid "Price"
+msgstr ""
+
+#: woocommerce-imaxel.php:326
+msgid "Woo Status"
+msgstr ""
+
+#: woocommerce-imaxel.php:327
+msgid "Status"
+msgstr ""
+
+#: woocommerce-imaxel.php:328
+msgid "Action"
+msgstr ""
+
+#. Author of the plugin
+#: woocommerce-imaxel.php:489 woocommerce-imaxel.php:672
+msgid "Imaxel"
+msgstr ""
+
+#: woocommerce-imaxel.php:607
+msgid "Configuration"
+msgstr ""
+
+#: woocommerce-imaxel.php:613
+msgid "Public key"
+msgstr ""
+
+#: woocommerce-imaxel.php:616
+msgid "Introduce Public key supplied by Imaxel"
+msgstr ""
+
+#: woocommerce-imaxel.php:620
+msgid "Private key"
+msgstr ""
+
+#: woocommerce-imaxel.php:623
+msgid "Introduce Private key supplied by Imaxel"
+msgstr ""
+
+#: woocommerce-imaxel.php:627
+msgid "URL IwebApi"
+msgstr ""
+
+#: woocommerce-imaxel.php:630
+msgid "Introduce “URL IwebApi” supplied by Imaxel"
+msgstr ""
+
+#: woocommerce-imaxel.php:634
+msgid "Activate automatic production"
+msgstr ""
+
+#: woocommerce-imaxel.php:639
+msgid "Allow guest mode"
+msgstr ""
+
+#: woocommerce-imaxel.php:644
+msgid "Hook WooCommerce Imaxel Button"
+msgstr ""
+
+#: woocommerce-imaxel.php:685 woocommerce-imaxel.php:691
+msgid "None"
+msgstr ""
+
+#: woocommerce-imaxel.php:712
+msgid "Update products"
+msgstr ""
+
+#: woocommerce-imaxel.php:729 woocommerce-imaxel.php:750
+msgid "Filter products"
+msgstr ""
+
+#: woocommerce-imaxel.php:738 woocommerce-imaxel.php:759
+msgid "Select one product"
+msgstr ""
+
+#: woocommerce-imaxel.php:888
+msgid "Desktop only"
+msgstr ""
+
+#: woocommerce-imaxel.php:893
+msgid "Create now"
+msgstr ""
+
+#: woocommerce-imaxel.php:1232
+msgid "My projects"
+msgstr ""
+
+#: woocommerce-imaxel.php:1238
+msgid "Updated"
+msgstr ""
+
+#: woocommerce-imaxel.php:1240
+msgid "Order"
+msgstr ""
+
+#: woocommerce-imaxel.php:1242
+msgid "Product"
+msgstr ""
+
+#. Name of the plugin
+msgid "Imaxel WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "A wordpress plugin to integrate imaxel with woocommerce and wordpress."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.imaxel.com"
+msgstr ""

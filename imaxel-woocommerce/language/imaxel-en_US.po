@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Imaxel WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-20 20:51+0000\n"
+"PO-Revision-Date: 2017-08-20 20:52+0000\n"
+"Last-Translator: Dario Parres <dario@parresibarra.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: woocommerce-imaxel.php:1302
+msgid "Are you sure you want to delete this project?"
+msgstr "Are you sure you want to delete this project?"
+
+#: woocommerce-imaxel.php:187
+msgid "Imaxel reprocess order"
+msgstr "Imaxel reprocess order"
+
+#: woocommerce-imaxel.php:273
+msgid "Imaxel projects"
+msgstr "Imaxel projects"
+
+#: woocommerce-imaxel.php:305
+msgid "Project ID"
+msgstr "Project ID"
+
+#: woocommerce-imaxel.php:310
+msgid "Select customer"
+msgstr "Select customer"
+
+#: woocommerce-imaxel.php:321
+msgid "Filter"
+msgstr "Filter"
+
+#: woocommerce-imaxel.php:330 woocommerce-imaxel.php:1320
+msgid "Project"
+msgstr "Project"
+
+#: woocommerce-imaxel.php:331
+msgid "Woo Order"
+msgstr "Woo Order"
+
+#: woocommerce-imaxel.php:332
+msgid "User name"
+msgstr "User name"
+
+#: woocommerce-imaxel.php:333
+msgid "Products"
+msgstr "Products"
+
+#: woocommerce-imaxel.php:334
+msgid "Price"
+msgstr "Price"
+
+#: woocommerce-imaxel.php:335
+msgid "Woo Status"
+msgstr "Woo Status"
+
+#: woocommerce-imaxel.php:336
+msgid "Status"
+msgstr "Status"
+
+#: woocommerce-imaxel.php:337
+msgid "Action"
+msgstr "Action"
+
+#. Author of the plugin
+#: woocommerce-imaxel.php:507 woocommerce-imaxel.php:698
+msgid "Imaxel"
+msgstr "Imaxel"
+
+#: woocommerce-imaxel.php:632
+msgid "Configuration"
+msgstr "Configuration"
+
+#: woocommerce-imaxel.php:638
+msgid "Public key"
+msgstr "Public key"
+
+#: woocommerce-imaxel.php:641
+msgid "Introduce Public key supplied by Imaxel"
+msgstr "Introduce Public key supplied by Imaxel"
+
+#: woocommerce-imaxel.php:645
+msgid "Private key"
+msgstr "Private key"
+
+#: woocommerce-imaxel.php:648
+msgid "Introduce Private key supplied by Imaxel"
+msgstr "Introduce Private key supplied by Imaxel"
+
+#: woocommerce-imaxel.php:652
+msgid "URL IwebApi"
+msgstr "URL IwebApi"
+
+#: woocommerce-imaxel.php:655
+msgid "Introduce “URL IwebApi” supplied by Imaxel"
+msgstr "Introduce “URL IwebApi” supplied by Imaxel"
+
+#: woocommerce-imaxel.php:659
+msgid "Activate automatic production"
+msgstr "Activate automatic production"
+
+#: woocommerce-imaxel.php:664
+msgid "Allow guest mode"
+msgstr "Allow guest mode"
+
+#: woocommerce-imaxel.php:711 woocommerce-imaxel.php:717
+msgid "None"
+msgstr "None"
+
+#: woocommerce-imaxel.php:738
+msgid "Update products"
+msgstr "Update products"
+
+#: woocommerce-imaxel.php:755 woocommerce-imaxel.php:776
+msgid "Filter products"
+msgstr "Filter products"
+
+#: woocommerce-imaxel.php:764 woocommerce-imaxel.php:785
+msgid "Select one product"
+msgstr "Select one product"
+
+#: woocommerce-imaxel.php:914
+msgid "Desktop only"
+msgstr ""
+"This product is not available for edition from a tablet or smartphone. "
+"Please, use a computer instead."
+
+#: woocommerce-imaxel.php:919
+msgid "Create now"
+msgstr "Create now"
+
+#: woocommerce-imaxel.php:1315
+msgid "My projects"
+msgstr "My projects"
+
+#: woocommerce-imaxel.php:1321
+msgid "Updated"
+msgstr "Updated"
+
+#: woocommerce-imaxel.php:1323
+msgid "Order"
+msgstr "Order"
+
+#: woocommerce-imaxel.php:1325
+msgid "Product"
+msgstr "Product"
+
+#. Name of the plugin
+msgid "Imaxel WooCommerce"
+msgstr "Imaxel WooCommerce"
+
+#. Description of the plugin
+msgid "A wordpress plugin to integrate imaxel with woocommerce and wordpress."
+msgstr "A wordpress plugin to integrate imaxel with woocommerce and wordpress."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.imaxel.com"
+msgstr "http://www.imaxel.com"
